@@ -1,0 +1,2 @@
+
+O projeto cash implementa um algoritmo ganancioso (greedy algorithm) para determinar o número mínimo de moedas necessárias para representar um valor em dólares. Utilizando essa abordagem, o programa seleciona as maiores moedas disponíveis (quartos, dimes, nickels e pennies) de forma iterativa, buscando minimizar a quantidade total de moedas utilizadas. O código também incorpora verificações para garantir entradas válidas do usuário. Esse projeto foi desenvolvido em Python.
